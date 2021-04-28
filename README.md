@@ -1,6 +1,6 @@
 # Tiny Portainer templates.json file server
 
-![Travis build status](https://travis-ci.com/benjaminbear/portainer-templates-server.svg?branch=master)
+![Travis build status](https://travis-ci.com/benjaminbear/portainer-templates-server.svg?branch=main)
 ![Docker build status](https://img.shields.io/docker/cloud/build/bbaerthlein/portainer-templates-server)
 ![Docker build automated](https://img.shields.io/docker/cloud/automated/bbaerthlein/portainer-templates-server)
 
