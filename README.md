@@ -5,7 +5,7 @@
 ![Docker build automated](https://img.shields.io/docker/cloud/automated/bbaerthlein/portainer-templates-server)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/benjaminbear/portainer-templates-server)
-![Go version](https://img.shields.io/github/go-mod/go-version/benjaminbear/portainer-templates-serverfilename=go.mod)
+![Go version](https://img.shields.io/github/go-mod/go-version/benjaminbear/portainer-templates-server?filename=go.mod)
 ![License](https://img.shields.io/github/license/benjaminbear/portainer-templates-server)
 
 This docker service simply serves just one file, a templates.json file
