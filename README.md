@@ -8,7 +8,8 @@
 ![Go version](https://img.shields.io/github/go-mod/go-version/benjaminbear/portainer-templates-server?filename=go.mod)
 ![License](https://img.shields.io/github/license/benjaminbear/portainer-templates-server)
 
-This docker service simply serves just one file, a templates.json file
+This docker service simply serves just one file, a templates.json file.
+This service is thought be run behind a secure reverse proxy.
 
 ## Usage
 
